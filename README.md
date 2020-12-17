@@ -1,30 +1,13 @@
-# ME597-Project
-ME 59700 (Artificial Intelligence in Thermal Systems) Final Course Project
+# Final Submission for ME 597 Project
+## Submitted by Keval Anekar, Kushal Doshi and Aryan Wadhwani 
 
-## Jupyter Notebooks
- - Data Cleaning
-   - `Solar_Power_data_cleaning.ipynb`
-   - `UCB_data_cleaning.ipynb`
-   - `UCF_data_cleaning.ipynb`
-   - `UCB_Multi_Data_cleaning.ipynb`
-   - `UCF_Multi_Data_cleaning.ipynb`
- - Artificial Neural Network Models:
-   - `Solar_Power_ANN_Model.ipynb`
-   - `University_Building_ANN_Model.ipynb`
+### Data Cleaning 
+ - Solar Data Cleaning
+ - University Data Cleaning
 
-## Datasets
- - Solar Power
-   - Adapted from: https://www.kaggle.com/anikannal/solar-power-generation-data/
- - Weather
-   - Ann Arbor
-   - Atlanta
-   - Orlando
-   - Berkeley, CA
- - Power Consumption
-   - University of Michigan
-   - University of California Berkeley
-   - University of Wisconsin
+### Machine Learning Models
+ - Solar ANN Model
+ - University ANN Model
 
-## Other files and folders
-- `Trained_Models/`: Contains serialized copies of trained models.
-- `logs/`: Contains training logs, used with TensorBoard for analysis and comparisons of training loss
+### Final Analysis using Model on Purdue University Data
+ - Final Analysis
